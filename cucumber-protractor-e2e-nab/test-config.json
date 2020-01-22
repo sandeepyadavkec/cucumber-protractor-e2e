@@ -1,0 +1,8 @@
+{
+  "user": {
+    "login": "sandeep.on.web@gmail.com",
+    "password": "tester1!"
+  },
+  "baseurl": "https://www.ebay.com.au/",
+  "signinurl": "https://signin.ebay.com.au/"
+}
