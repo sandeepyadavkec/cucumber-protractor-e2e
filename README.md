@@ -13,18 +13,22 @@ Usage steps:
 
 1. Clone or download the cucumber-protractor-e2e-nab framework.
 
-2. Install protractor globally using
+2. Download dependency using:
+
+	npm install
+
+3. Install protractor globally using
 
 	npm install -g protractor
 
-3. Test the installation using
+4. Test the installation using
 
 	protractor --version
 	
-4. From root directory of the framework, start the webdriver using:
+5. From root directory of the framework, start the webdriver using:
 
 	npm run webdriver
 	
-5. From root directory of the framework, start the tests using command:
+6. From root directory of the framework, start the tests using command:
 
 	protractor
