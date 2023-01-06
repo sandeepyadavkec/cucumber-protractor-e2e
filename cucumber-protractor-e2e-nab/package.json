@@ -19,7 +19,7 @@
     "chai-as-promised": "^7.1.1",
     "chai-like": "^0.2.14",
     "express": "^4.16.3",
-    "httpster": "^1.0.4",
+    "httpster": "^1.1.0",
     "mocha": "^5.2.0",
     "prettier": "^1.14.2",
     "protractor": "^5.4.0",
